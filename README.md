@@ -17,5 +17,5 @@ Hovedkomponenter:
 - 2 stk Electrolytic Capacitor.
 - 2 stk 220Ω resistor til RGB LED-stripe.
 
-Koden er skrevet i C++
+Koden er skrevet i Arduino språket
 
