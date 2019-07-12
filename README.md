@@ -19,3 +19,4 @@ Hovedkomponenter:
 
 Koden er skrevet i Arduino
 
+Lenke til Prosjekt siden: https://www.uio.no/studier/emner/matnat/ifi/IN1060/v18/prosjekter-2018/spade/index.html
